@@ -1,0 +1,15 @@
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\bin\Debug\net6.0\Programm.exe
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\bin\Debug\net6.0\Programm.deps.json
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\bin\Debug\net6.0\Programm.runtimeconfig.json
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\bin\Debug\net6.0\Programm.dll
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\bin\Debug\net6.0\Programm.pdb
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\obj\Debug\net6.0\Programm.csproj.AssemblyReference.cache
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\obj\Debug\net6.0\Programm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\obj\Debug\net6.0\Programm.AssemblyInfoInputs.cache
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\obj\Debug\net6.0\Programm.AssemblyInfo.cs
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\obj\Debug\net6.0\Programm.csproj.CoreCompileInputs.cache
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\obj\Debug\net6.0\Programm.dll
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\obj\Debug\net6.0\refint\Programm.dll
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\obj\Debug\net6.0\Programm.pdb
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\obj\Debug\net6.0\Programm.genruntimeconfig.cache
+D:\Хлам\Работа - модели\Geek breins\11.2022\Итоги Блока\Programm\obj\Debug\net6.0\ref\Programm.dll
